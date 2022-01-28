@@ -39,7 +39,6 @@ Initial features:
    addresses problems reported by users)
 
 Source Control: Github
-( https://github.com/Woz-U-Group-Projects/team-silly-moser)
 
 Deployment: Amazon Web Services
 

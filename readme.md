@@ -1,4 +1,4 @@
-# Team: Silly Moser
+
 
 Application Name: **Schedule Master**
 

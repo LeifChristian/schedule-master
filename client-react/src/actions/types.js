@@ -1,5 +1,5 @@
-export const FETCH_POSTS = 'FETCH_POSTS';
-export const NEW_POST = 'NEW_POST';
+export const FETCH_POSTS = "FETCH_POSTS";
+export const NEW_POST = "NEW_POST";
 export const GET_ERRORS = "GET_ERRORS";
 export const USER_LOADING = "USER_LOADING";
 export const SET_CURRENT_USER = "SET_CURRENT_USER";
@@ -11,3 +11,5 @@ export const GET_PROJECT = "GET_PROJECT";
 export const PROJECT_LOADING = "PROJECT_LOADING";
 export const GET_PROJECTS = "GET_PROJECTS";
 export const PROJECTS_LOADING = "PROJECTS_LOADING";
+export const USERS_LOADING = "USERS_LOADING";
+export const GET_USERS = "GET_USERS";
